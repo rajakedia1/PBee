@@ -27,8 +27,7 @@
     
     height: 50px;
     width: 250px;
-    margin-top: 400px;
-    margin-left: 40%;
+    margin: 400px auto 0;
     background-color: #21bc56;
     color: #fff;
     line-height: 50px;
